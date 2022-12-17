@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mandliyarajendra11
 - 👀 I’m interested in web development and problem solving que 
 - 🌱 I’m currently learning advanced dsa
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on MERN STACK project
 - 📫 How to reach me mandliyarajendra0000@gmail.com
 
 <!---
