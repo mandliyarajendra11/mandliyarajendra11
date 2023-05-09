@@ -6,17 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mandliyarajendra11" alt="mandliyarajendra11" /></a> </p>
 
-- 🔭 I’m currently working on **dsa project**
+- 🔭 I’m currently working on **MERN project frontend part**
 
-- 🌱 I’m currently learning **hard level dsa**
-
-- 👨‍💻 All of my projects are available at [https://raj-portfolio-web.netlify.app/](https://raj-portfolio-web.netlify.app/)
+- 🌱 I’m currently learning **hard level dsa/Next js**
 
 - 💬 Ask me about **Frontend development and problem solving**
 
 - 📫 How to reach me **mandliyarajendra0000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-96ztjWxgVtRbvVRt-6KADzpqA7ICszx/view?pli=1](https://drive.google.com/file/d/1-96ztjWxgVtRbvVRt-6KADzpqA7ICszx/view?pli=1)
+- 📄 MY resume [https://drive.google.com/file/d/1-96ztjWxgVtRbvVRt-6KADzpqA7ICszx/view?pli=1](https://drive.google.com/file/d/1-96ztjWxgVtRbvVRt-6KADzpqA7ICszx/view?pli=1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
