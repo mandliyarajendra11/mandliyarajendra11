@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend Web Developer with expertise in HTML, CSS, JavaScript, and ReactJS & next js and open source contributor .  I have developed a strong foundation in creating responsive and dynamic web applications. <br>My proficiency in data structures and algorithms has enabled me to solve over 450 problems on LeetCode and 400 on GeeksforGeeks . <br>I am constantly seeking opportunities to learn and grow in my field and am excited to leverage my skills and experience in my next role.
+Frontend Web Developer with expertise in HTML, CSS, JavaScript, and ReactJS & Next js and open source contributor .  I have developed a strong foundation in creating responsive and dynamic web applications. <br>My proficiency in data structures and algorithms has enabled me to solve over 450 problems on LeetCode and 400 on GeeksforGeeks . <br>I am constantly seeking opportunities to learn and grow in my field and am excited to leverage my skills and experience in my next role.
 
 
 ## 🌐 Socials:
