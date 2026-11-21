@@ -38,7 +38,7 @@ Also built: API testing workflows, mentoring-platform backends, insurance paymen
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/rajendramandliya11/) · [Upwork](https://www.upwork.com/freelancers/~01570dbeab34930b15) · [Email](mailto:mandliyarajendra0000@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rajendramandliya11/) · [Email](mailto:mandliyarajendra0000@gmail.com)
 
 📍 Indore, India (IST) · Open to **remote** · Happy to overlap US / UK time zones
 
